@@ -30,4 +30,3 @@ Copyright 2010 Rede Nacional de Ensino e Pesquisa, Universidade Federal Fluminen
     junto com este programa, se não, escreva para a Fundação do Software
 
     Livre(FSF) Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-teste
